@@ -1,0 +1,1 @@
+This consists of all the important supervised algorithms. They are trained and tested using small but real_time kind of data. Followed all the Data Science steps right from problem statement and data collection to model evaluation. It has both classification and regression algorithms.
